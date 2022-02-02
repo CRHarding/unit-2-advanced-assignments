@@ -7,7 +7,7 @@ Alright folks, let's get this party started! First things first, these are *not*
 ## Thought Process
 The reasoning behind these projects was to choose tasks that would get you to think more like a programmer. So far we've been building websites, which is fantastic, and now we're hoping to exercise the other side of the brain with more 'puzzle' type exercises. To be clear: you're going to need both skills to succeed as a developer.
 
-## Stop talking already and tell us what to do already!
+## Stop talking and tell us what to do already!
 Ok, so I went ahead and took three projects I'd made much, much, *much* earlier in my career as a developer. I chose these projects as a way to challenge myself and because of the skills they taught. DRY principals (Don't Repeat Yourself), OOP best practices, modern JavaScript, recursion, and just good programming practices in general. They started messy, and are now slightly less messy after working on them for a few months. Here is the site where they are hosted: https://caseys-palace.herokuapp.com/
 
 The idea is you have to play minesweeper to make money, and then spend that money playing either blackjack or poker. I recommend starting with BlackJack, using what you learned from BlackJack move on to Poker, and then, finally, try and tackle Minesweeper (by far the hardest one).
