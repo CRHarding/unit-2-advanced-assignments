@@ -5,7 +5,7 @@ A collection of advanced assignments for learners to complete during build week
 Alright folks, let's get this party started! First things first, these are *not* required. These are meant as assignments for students who passed all of their sprints and are looking for suggestions for what to tackle first. These are *much* more open ended than previous lessons and are *much* more difficult. These are meant to challenge you.
 
 ## Thought Process
-The reasoning behind these projects was to choose tasks that would get you to think more like a programmer. So far we've been building websites, which is fantastic, so know we're hoping to exercise the other side of the brain with more 'puzzle' type exercises. To be clear: you're going to need both skills to succeed as a developer.
+The reasoning behind these projects was to choose tasks that would get you to think more like a programmer. So far we've been building websites, which is fantastic, and now we're hoping to exercise the other side of the brain with more 'puzzle' type exercises. To be clear: you're going to need both skills to succeed as a developer.
 
 ## Stop talking already and tell us what to do already!
 Ok, so I went ahead and took three projects I'd made much, much, *much* earlier in my career as a developer. I chose these projects as a way to challenge myself and because of the skills they taught. DRY principals (Don't Repeat Yourself), OOP best practices, modern JavaScript, recursion, and just good programming practices in general. They started messy, and are now slightly less messy after working on them for a few months. Here is the site where they are hosted: https://caseys-palace.herokuapp.com/
