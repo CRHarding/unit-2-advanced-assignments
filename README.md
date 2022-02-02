@@ -20,3 +20,16 @@ So, go forth and prosper!!
 
 ## FINAL NOTE
 Please, please, please make something that looks better than what I came up with...apparently back then I didn't know CSS existed :(...
+
+## FINAL, FINAL, REALLY FINAL NOTE (jeeze does this guy ever stop talking?!)
+If you're not interested in any of the above, here are some extra options to get those creative juices flowing (in no particular order):
+
+1. Hangman
+2. Tower of Hanoi
+3. A Microsoft Paint Clone
+4. Reddit
+5. Tic Tac Toe
+6. Memory (where you flip a card over and try and match it with it's pair)
+7. Connect Four
+
+You can also feel free to pick anything else (although we recommend those as they're challenging without being impossible and also stretch those sweet, sweet programming muscles!
