@@ -1,4 +1,4 @@
-# unit-2-advanced-assignments
+# Unit 2: Advanced Assignments
 A collection of advanced assignments for students to complete during build week
 
 ## About
@@ -18,4 +18,5 @@ There are no other directions, there are no rules (well, besides the rules inher
 
 So, go forth and prosper!! 
 
-(FYI please, please, please make something that looks better than what I came up with...apparently back then I didn't know CSS existed :(...)
+## FINAL NOTE
+Please, please, please make something that looks better than what I came up with...apparently back then I didn't know CSS existed :(...
