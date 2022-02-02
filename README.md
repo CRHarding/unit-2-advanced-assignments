@@ -1,5 +1,5 @@
 # Unit 2: Advanced Assignments
-A collection of advanced assignments for students to complete during build week
+A collection of advanced assignments for learners to complete during build week
 
 ## About
 Alright folks, let's get this party started! First things first, these are *not* required. These are meant as assignments for students who passed all of their sprints and are looking for suggestions for what to tackle first. These are *much* more open ended than previous lessons and are *much* more difficult. These are meant to challenge you.
